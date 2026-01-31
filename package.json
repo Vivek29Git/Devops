@@ -1,0 +1,21 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "description": "Simple web application for DevOps practice.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "serve src"
+  },
+  "keywords": [
+    "devops",
+    "nodejs",
+    "docker",
+    "kubernetes",
+    "jenkins"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
